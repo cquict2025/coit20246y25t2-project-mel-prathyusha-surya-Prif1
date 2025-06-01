@@ -29,5 +29,10 @@ Task 4.4 - Etheical and Social Issues : = Surya Contribution - 50 %; Prathysha C
 ## Reflection on Commits and Tasks
 Reflect on GitHub commits, tasks performed and which weeks commits were made. See Project Specification for detailed requirements. 
 
+Surya made 46 commits, contributing primarilr to branch office networks,core network design for network and security recommendations.
+
+
+Prathyusha has 6 commits, focused on WIFI justification, ethical issues, cloud, security and project documentations.
+
 ## Reflection on Group Work
 Discuss how you worked in a group, issues encountered and recommended techniques for future. See Project Specification for detailed requirements.
