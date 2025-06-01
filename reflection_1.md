@@ -9,6 +9,9 @@ The following is the screenshot of Github Committs
 GhubU121 refers to Surya Velisetti (Not reflecting even when the name is updated)
 ![Git Hub Commits](images/GithubCommits.png) 
 
+![Git hub Contributions](https://github.com/user-attachments/assets/9086b6ad-03dc-4b70-a798-2895f4eac538)
+
+
 ## List of Tasks
 
 Task 4.1.1 - List the Assumptions: = Surya Contribution - 50 %; Prathysha Contribution - 50 % 
