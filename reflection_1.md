@@ -25,6 +25,17 @@ Task 4.3.2 - Recommend security controls : = Surya Contribution - 20 %; Prathysh
 
 Task 4.4 - Etheical and Social Issues : = Surya Contribution - 50 %; Prathysha Contribution - 50 % 
 
+Task 5.1 - Evaluate Cloud Implementation: Surya Contribution - 50 %, Prathyusha Contribution - 50 %
+
+Task 5.2 - Review Performance Metrics: Surya Contribution - 50 %, Prathyusha Contribution - 50 %
+
+Task 5.3 - Identify Optimization Strategies: Surya Contribution - 50 %, Prathyusha Contribution - 50 %
+
+Task 5.4 - Final Review and Recommendations
+
+
+
+
 
 ## Reflection on Commits and Tasks
 Surya made 46 commits, contributing primarilr to branch office networks,core network design for network and security recommendations.
