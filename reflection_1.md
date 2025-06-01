@@ -27,7 +27,15 @@ Task 4.4 - Etheical and Social Issues : = Surya Contribution - 50 %; Prathysha C
 
 
 ## Reflection on Commits and Tasks
-Reflect on GitHub commits, tasks performed and which weeks commits were made. See Project Specification for detailed requirements. 
+Surya made 46 commits, contributing primarilr to branch office networks,core network design for network and security recommendations.
+Prathyusha has 6 commits, focused on WIFI justification, ethical issues, cloud, security and project documentations.
 
 ## Reflection on Group Work
-Discuss how you worked in a group, issues encountered and recommended techniques for future. See Project Specification for detailed requirements.
+Progress was slowed due to difficulties in aligning schedules.
+ •	Team members had varying skill levels, which required extra time to learn new tools or tasks.
+
+Suggestions to Improve Future Collaboration:
+ •	To keep everyone on the same page, holding short daily meetings helps track progress and fix issues early. This boosts team accountability and efficiency.
+ •	Using tools to automatically track tasks helps avoid missing important work and flags delays early, keeping the team organized and deadline-aware.
+ •	Setting up a clear Git branching plan lets members work separately without disrupting each other’s changes. It keeps version control smooth and avoids merge problems.
+ •	Cloud-based tools for documentation ensure everyone can see the latest updates anytime, reducing confusion and helping the team work better together
