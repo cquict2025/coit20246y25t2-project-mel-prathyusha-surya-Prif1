@@ -44,6 +44,11 @@ Task 5.4 - Final Review and Recommendations
 Surya made 46 commits, contributing primarilr to branch office networks,core network design for network and security recommendations.
 Prathyusha has 6 commits, focused on WIFI justification, ethical issues, cloud, security and project documentations.
 
+Surya made 46 commits, contributing primarilr to branch office networks,core network design for network and security recommendations.
+
+
+Prathyusha has 6 commits, focused on WIFI justification, ethical issues, cloud, security and project documentations.
+
 ## Reflection on Group Work
 Progress was slowed due to difficulties in aligning schedules.
  •	Team members had varying skill levels, which required extra time to learn new tools or tasks.
